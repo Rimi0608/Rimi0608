@@ -1,7 +1,7 @@
 👋 Heyy, I’m Rishab Kumar! (@Rimi0608)
 # 🌟 Welcome to My GitHub Profile!  
 
-I'm an **undergraduate student** on an exciting journey through the fascinating worlds of **Data Science** and **Machine Learning**. My code is my compass, guiding me through the intricate landscapes of technology and innovation. Python is my programming language of choice, and I absolutely love working with **Jupyter Notebook**.  
+I'm an **undergraduate student** on an exciting journey through the fascinating worlds of **Data Science** and **Machine Learning**. My code is my compass, guiding me through the intricate landscapes of technology and innovation. Python is my programming language of choice, and I absolutely love working with **VS Code**.  
 
 ---
 
